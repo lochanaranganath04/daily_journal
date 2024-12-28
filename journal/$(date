@@ -1,0 +1,7 @@
+"# Daily Journal - $(date +"%Y-%m-%d")"  +"%Y-%m-%d").md
+"## Goals"  +%Y-%m-%d).md
+"- Learn Git commands"  +%Y-%m-%d).md
+"## Achievements"  +%Y-%m-%d).md
+"- Initialized Git repository"  +%Y-%m-%d).md
+"## Reflections"  +%Y-%m-%d).md
+"Git is easier to use than expected!"  +%Y-%m-%d).md
